@@ -1,0 +1,17 @@
+
+
+.Card-recipe {
+  padding-left: 40px!important;
+  margin-right: 40px!important;
+  margin-top: 20px!important;
+  display: flex;
+  flex-direction: row
+}
+
+.order-online {
+  padding-left: 40px!important;
+  margin-right: 40px!important;
+  margin-top: 20px!important;
+  display: flex;
+  flex-direction: row
+}
